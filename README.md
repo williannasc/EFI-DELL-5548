@@ -20,8 +20,8 @@ Minha pasta EFI do notebook Dell 5548, rodando hackintosh MacOS Mojave 10.14.6
 # Não funcionando:
 1. WiFi:
     Depois de muitas pesquisas e testes sem sucesso, descobri que meu modelo em específico não é compatível, ele ativa o WiFi, acha rede, mas ao conectar não atribui IP
-    Vendor  Device  Sub Vendor  Sub Device  Vendor Name     Device Name
-    0x168C  0x0036  0x11AD      0x0803      Qualcomm Ath.   QCA9565/AR9565
+    1. Vendor  Device  Sub Vendor  Sub Device  Vendor Name     Device Name
+    2. 0x168C  0x0036  0x11AD      0x0803      Qualcomm Ath.   QCA9565/AR9565
     
 2. Bluetooth
 3. FaceTime e iMessenger
