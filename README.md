@@ -1,12 +1,12 @@
 # Dell Inspiron 5548 PT-BR EFI
 Minha pasta EFI do notebook Dell 5548, rodando hackintosh MacOS Mojave 10.14.6
 # Configs. do notebook:
-CPU: i7 5500u 2.4 GHz
-RAM: 12 GB DDR3 1600 MHz
-GPU: Intel HD Graphics 5500
-Áudio: Realtek ALC255
-WiFi: Atheros AR9565
-Ethernet: Realtek RTL810x
+1. CPU: i7 5500u 2.4 GHz
+2. RAM: 12 GB DDR3 1600 MHz
+3. GPU: Intel HD Graphics 5500
+4. Áudio: Realtek ALC255
+5. WiFi: Atheros AR9565
+6. Ethernet: Realtek RTL810x
 
 # Funcionando:
 1. Som
